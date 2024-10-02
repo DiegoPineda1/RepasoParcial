@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackApi", "RepasoParcial\BackApi.csproj", "{4F24DC11-428D-41CA-9A52-B3C23A1ED98E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineApi", "CineApi\CineApi.csproj", "{4A522FE2-FC9C-4B71-B715-D0A989937A40}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4F24DC11-428D-41CA-9A52-B3C23A1ED98E} = {4F24DC11-428D-41CA-9A52-B3C23A1ED98E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F24DC11-428D-41CA-9A52-B3C23A1ED98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F24DC11-428D-41CA-9A52-B3C23A1ED98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F24DC11-428D-41CA-9A52-B3C23A1ED98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F24DC11-428D-41CA-9A52-B3C23A1ED98E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A522FE2-FC9C-4B71-B715-D0A989937A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A522FE2-FC9C-4B71-B715-D0A989937A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A522FE2-FC9C-4B71-B715-D0A989937A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A522FE2-FC9C-4B71-B715-D0A989937A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1A4C10-2DB9-42AF-B530-364114B0C553}
+	EndGlobalSection
+EndGlobal

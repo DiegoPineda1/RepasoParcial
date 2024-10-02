@@ -1,0 +1,14 @@
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\bin\Debug\net8.0\BackApi.deps.json
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\bin\Debug\net8.0\BackApi.runtimeconfig.json
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\bin\Debug\net8.0\BackApi.dll
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\bin\Debug\net8.0\BackApi.pdb
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\BackApi.csproj.AssemblyReference.cache
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\BackApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\BackApi.AssemblyInfoInputs.cache
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\BackApi.AssemblyInfo.cs
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\BackApi.csproj.CoreCompileInputs.cache
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\BackApi.dll
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\refint\BackApi.dll
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\BackApi.pdb
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\BackApi.genruntimeconfig.cache
+C:\Users\Diego Pineda\Desktop\Progra\Nueva carpeta\RepasoParcial\RepasoParcial\obj\Debug\net8.0\ref\BackApi.dll
